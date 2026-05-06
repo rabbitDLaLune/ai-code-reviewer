@@ -24,3 +24,12 @@ export interface ReviewResult {
   detectedLanguage?: string;
   rawReview?: string;
 }
+
+export interface ReviewHistoryItem {
+  id: string;
+  language: Language;
+  detectedLanguage?: string;
+  code: string;
+  review: ReviewResult;
+  createdAt: string;
+}
