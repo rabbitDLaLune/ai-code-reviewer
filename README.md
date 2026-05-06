@@ -31,6 +31,10 @@ The system allows users to paste source code and receive AI-generated feedback o
 - Ollama API
 - qwen2.5-coder:3b
 
+## Screenshot
+
+![AI Code Reviewer Output](frontend/public/screenshots/review-result.png)
+
 ## Project Structure
 
 ```text
