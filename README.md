@@ -546,6 +546,10 @@ git push
 - Review severity labels
 - Downloadable review reports
 
-## Copyright
+## License
 
-© 2026 Khairulnizam. All rights reserved.
+This project is licensed under the MIT License.
+
+You are allowed to use, modify, and distribute this project, but the original copyright notice and author credit must be included.
+
+Designed and developed by Khairulnizam.
